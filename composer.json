@@ -1,0 +1,24 @@
+{
+  "name": "ecomdev-theme/theme-fruits",
+  "description": "A Laravel Inertia theme package (fruits style)",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "EcomdevTheme\\ThemeFruits\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "EcomdevTheme\\ThemeFruits\\ThemeFruitsServiceProvider"
+      ]
+    }
+  },
+  "require": {
+    "php": ">=8.1",
+    "illuminate/support": "^11.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
