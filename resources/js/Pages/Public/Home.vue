@@ -8,27 +8,27 @@
     import Hero from '@ThemeFruits/Layout/Hero.vue'
 
     // Import images
-    import cat1 from '@/assets/img/categories/cat-1.jpg';
-    import cat2 from '@/assets/img/categories/cat-2.jpg';
-    import cat3 from '@/assets/img/categories/cat-3.jpg';
-    import cat4 from '@/assets/img/categories/cat-4.jpg';
-    import cat5 from '@/assets/img/categories/cat-5.jpg';
-    import feature1 from '@/assets/img/featured/feature-1.jpg';
-    import feature2 from '@/assets/img/featured/feature-2.jpg';
-    import feature3 from '@/assets/img/featured/feature-3.jpg';
-    import feature4 from '@/assets/img/featured/feature-4.jpg';
-    import feature5 from '@/assets/img/featured/feature-5.jpg';
-    import feature6 from '@/assets/img/featured/feature-6.jpg';
-    import feature7 from '@/assets/img/featured/feature-7.jpg';
-    import feature8 from '@/assets/img/featured/feature-8.jpg';
-    import banner1 from '@/assets/img/banner/banner-1.jpg';
-    import banner2 from '@/assets/img/banner/banner-2.jpg';
-    import lp1 from '@/assets/img/latest-product/lp-1.jpg';
-    import lp2 from '@/assets/img/latest-product/lp-2.jpg';
-    import lp3 from '@/assets/img/latest-product/lp-3.jpg';
-    import blog1 from '@/assets/img/blog/blog-1.jpg';
-    import blog2 from '@/assets/img/blog/blog-2.jpg';
-    import blog3 from '@/assets/img/blog/blog-3.jpg';
+    import cat1 from '@ThemeFruits/assets/img/categories/cat-1.jpg';
+    import cat2 from '@ThemeFruits/assets/img/categories/cat-2.jpg';
+    import cat3 from '@ThemeFruits/assets/img/categories/cat-3.jpg';
+    import cat4 from '@ThemeFruits/assets/img/categories/cat-4.jpg';
+    import cat5 from '@ThemeFruits/assets/img/categories/cat-5.jpg';
+    import feature1 from '@ThemeFruits/assets/img/featured/feature-1.jpg';
+    import feature2 from '@ThemeFruits/assets/img/featured/feature-2.jpg';
+    import feature3 from '@ThemeFruits/assets/img/featured/feature-3.jpg';
+    import feature4 from '@ThemeFruits/assets/img/featured/feature-4.jpg';
+    import feature5 from '@ThemeFruits/assets/img/featured/feature-5.jpg';
+    import feature6 from '@ThemeFruits/assets/img/featured/feature-6.jpg';
+    import feature7 from '@ThemeFruits/assets/img/featured/feature-7.jpg';
+    import feature8 from '@ThemeFruits/assets/img/featured/feature-8.jpg';
+    import banner1 from '@ThemeFruits/assets/img/banner/banner-1.jpg';
+    import banner2 from '@ThemeFruits/assets/img/banner/banner-2.jpg';
+    import lp1 from '@ThemeFruits/assets/img/latest-product/lp-1.jpg';
+    import lp2 from '@ThemeFruits/assets/img/latest-product/lp-2.jpg';
+    import lp3 from '@ThemeFruits/assets/img/latest-product/lp-3.jpg';
+    import blog1 from '@ThemeFruits/assets/img/blog/blog-1.jpg';
+    import blog2 from '@ThemeFruits/assets/img/blog/blog-2.jpg';
+    import blog3 from '@ThemeFruits/assets/img/blog/blog-3.jpg';
 </script>
 
 <template>
